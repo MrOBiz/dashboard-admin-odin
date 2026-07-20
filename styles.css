@@ -66,3 +66,10 @@ img{
     height: 50px;
     width: 50px;
 }
+
+.search{
+    width: max-content;
+    display: grid;
+
+    place-content: center;
+}
